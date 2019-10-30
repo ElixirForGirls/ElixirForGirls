@@ -14,3 +14,15 @@ This site is built using GitHub pages
 
 ### Running the site locally
 - `bundle exec jekyll serve`
+
+### Publish website
+
+First you need to update the `GITHUB_REPONAME` variable in the `/Rakefile`
+file. If you have a project GH Page you need to define the `baseurl` as
+your project name and set `url` as empty in `_config.yml`.
+
+- Organization/User GH Page
+  - `rake org:publish`
+
+- Project GH Page
+  - `rake project:publish`
