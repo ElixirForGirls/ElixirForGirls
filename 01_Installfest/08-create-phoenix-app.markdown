@@ -44,7 +44,7 @@ mix phx.new test_app
 
 The command's output is a list of the files it creates, which will be fairly long. We'll go into detail about what these files are later.
 
-![phoenix app output](/assets/phoenix-new-app-output.png)
+![phoenix app output](../assets/phoenix-new-app-output.png)
 
 Then it will ask you to fetch and install dependencies, type `Y` to do this. If there's an error at this point, grab a volunteer to help you.
 
@@ -119,6 +119,6 @@ If the Phoenix server starts up with no errors, you're golden! It'll look someth
 
 In your browser, open [localhost:4000](http://localhost:4000). You should see a page like this:
 
-![](/assets/welcome-to-phoenix.png)
+![Welcome to phoenix](../assets/welcome-to-phoenix.png)
 
 Hit `Ctrl c` **twice** in your console to stop the server.

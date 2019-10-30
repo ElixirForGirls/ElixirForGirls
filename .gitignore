@@ -3,3 +3,6 @@ _site/
 .#
 .jekyll-metadata
 .idea/
+_sass/
+.sass-cache/
+.*swp

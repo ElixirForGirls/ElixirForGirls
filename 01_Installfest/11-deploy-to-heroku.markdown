@@ -14,11 +14,11 @@ Click on your app
 Then click on settings
 
 
-![heroku app interface](/assets/heroku-app-interface.png)
+![heroku app interface](../assets/heroku-app-interface.png)
 
 You should see something that looks like this
 
-![heroku config vars](/assets/reveal-heroku-config-vars.png)
+![heroku config vars](../assets/reveal-heroku-config-vars.png)
 
 Click on the button that says **Reveal Config Vars**
 
@@ -35,7 +35,7 @@ SECRET_KEY_BASE:
 
 Now in the empty row at the bottom of the page
 
-![empty heroku config var](/assets/empty-heroku-config-var1.png)
+![empty heroku config var](../assets/empty-heroku-config-var1.png)
 
 in the first empty field create a new variable called
 
@@ -70,7 +70,7 @@ Then Click Add.
 
 It should look like this
 
-![heroku-database-username](/assets/heroku-db-username.png)
+![heroku-database-username](../assets/heroku-db-username.png)
 
 Do the same for password. Create a Variable called `PASSWORD`. and then copy the password from the correct portion of the database url
 ```
@@ -83,7 +83,7 @@ postgres://username:password@12-245-123-12compute-1.amazonaws.com:5432/database
 ```
 
 Your config should look something like this
-![heroku config](/assets/heroku-config1.png)
+![heroku config](../assets/heroku-config1.png)
 
 You should have the following variables now defined
 

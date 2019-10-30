@@ -75,7 +75,7 @@ mix ecto.migrate
 
 You will see something similar to the following on your screen
 
-![phoenix datbase migration output](/assets/phoenix-db-migration-output.png)
+![phoenix datbase migration output](../assets/phoenix-db-migration-output.png)
 
 Now lets start our server up again
 
@@ -90,7 +90,7 @@ localhost:4000
 
 You should see a page that looks something like this
 
-!['test app image'](/assets/test-app-index.png)
+!['test app image'](../assets/test-app-index.png)
 
 
 Wait till your server has loaded like before.
@@ -110,4 +110,4 @@ http://localhost:4000/drinks
 
 You should see the following text at the top of the page
 
-![drinks successfully created ](/assets/drinks-created.png)
+![drinks successfully created ](../assets/drinks-created.png)
