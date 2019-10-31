@@ -7,18 +7,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: ElixirBridge for Girls
+title: ElixirGirls Stockholm
 subtitle: "A place to learn Elixir"
-email: info@elixirbridge.org
-name: ElixirBridge
+email: anayeli.malvaez@gmail.com
+name: ElixirGirls Stockholm
 description: >
-  We empower people with technology through teaching and facilitating access,
-  enlarging the community of people who give back and teach others.
+  Our aim is to make technology more approachable by creating a fun and friendly environment for people to come together and learn about Elixir, Phoenix and Functional Programming.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "elixirbridge.org" # the base hostname & protocol for your site
+url: "elixir-bridge.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -60,7 +59,7 @@ highlightjs_theme: "monokai_sublime"
 social:
   - name: Twitter
     icon: twitter
-    username: elixirbridge
+    username: elixirgirls
     url: https://twitter.com/elixirbridge
     desc: Twitter
     share: true
@@ -68,7 +67,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: elixirbridge
+    username: elixirgirls
     url: https://github.com/elixir-bridge
     desc: GitHub
     share: false

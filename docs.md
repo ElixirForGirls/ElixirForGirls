@@ -4,12 +4,19 @@ title: Docs
 permalink: /docs/
 ---
 
+## About ElixirGirls
+<a href="https://elixirgirls.com/">ElixirGirls</a> is an open initiative founded by [Cath Jones](https://twitter.com/CathJones0) aimed _"to make technology 
+more approachable by creating a fun and friendly environment for people to come together and learn about Elixir, Phoenix and Functional Programming."_
+
+**ElixirGirls Stockholm 2019** is sponsored by [Derivco Sports](https://es.linkedin.com/company/derivco-sports) and is planned to happend in 2019 in Stockholm.
+
 ## About this fork
 
-ElixirBrige for Girls is a fork of the original <a href="http://elixirbridge.org/">Elixir Bridge</a> initiative. We decided to fork this beautiful initiative in order to make the appropriate adjustements needed for running the <a href="#">Elixir Girls Stockholm 2019</a> event. We noticed the excelent material from the original initiative so we decided to not reinvent the wheel, but at the same time we wanted to move faster and a fork allowed us to do so. Still, we are willing to merge it as part of the
-main ElixirBridge initiative, maybe as a subdivision.
+**ElixirGirls Stockholm** website is a fork of the original <a href="http://elixirbridge.org/">Elixir Bridge</a> initiative. We decided to fork the documentation repo from that beautiful initiative
+in order to not reinvent the wheel and move faster while doing the appropriate adjustements needed for running the <a href="#">Elixir Girls Stockholm 2019</a> event. We
+hope that part of the improvements made on this fork can be included in the original ElixirBridge repository.
 
-## Original introduction
+## About ElixirBridge
 
 ElixirBridge is an all-volunteer organization that provides resources and teaches free programming workshops in the [Elixir](http://elixir-lang.org/) programming language. As program of [Bridge Foundry](http://bridgefoundry.org/), every activity is designed as an outreach to people who are underrepresented in tech.
 
