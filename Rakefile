@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "ElixirForGirls/elixir-bridge.github.io"
+GITHUB_REPONAME = "ElixirGirlsStockholm/elixirgirlsstockholm.github.io"
 
 namespace :org do
   desc "Generate blog files for an Organization GH Page"
